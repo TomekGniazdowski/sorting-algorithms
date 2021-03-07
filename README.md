@@ -5,5 +5,5 @@ Four sorting algorithms:
 - heapsort
 - merge sort
 
-Implemented and tested by myself on one hundred arrays. Every array contains one milion random numbers.
+Implemented by myself and tested on one hundred arrays. Every array contains one milion random numbers.
  
