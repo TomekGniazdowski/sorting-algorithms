@@ -4,5 +4,6 @@ Four sorting algorithms:
 - introsort
 - heapsort
 - merge sort
-Implemented and tested by myself on one hundred 1-milion element array.
+
+Implemented and tested by myself on one hundred arrays. Every array contains one milion random numbers.
  
